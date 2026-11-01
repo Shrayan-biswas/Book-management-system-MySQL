@@ -1,0 +1,13 @@
+# Local exports and editor files
+*.csv.bak
+*.sql.bak
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Credentials and local environment
+.env
+.env.*
+!.env.example
